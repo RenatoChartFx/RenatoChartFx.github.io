@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/PlaylistPulse", {data:[{}],fetch:{},mutations:[]});

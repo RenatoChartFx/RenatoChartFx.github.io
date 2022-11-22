@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/dropdown-test", {data:[{}],fetch:{},mutations:[]});

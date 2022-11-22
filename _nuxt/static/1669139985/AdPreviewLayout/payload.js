@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/AdPreviewLayout", {data:[{}],fetch:{},mutations:[]});

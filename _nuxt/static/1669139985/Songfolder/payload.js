@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/Songfolder", {data:[{}],fetch:{},mutations:[]});
