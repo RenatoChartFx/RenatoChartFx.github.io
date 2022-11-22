@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="496px" height="405px" viewBox="0 0 496 405" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>themarker</title>
+    <defs>
+        <linearGradient x1="62.1015938%" y1="108.005476%" x2="62.1015938%" y2="-12.2718322%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="50.1171192%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.1015938%" y1="108.005476%" x2="62.1015938%" y2="-12.2718322%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="50.1171192%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="62.1015938%" y1="108.005476%" x2="62.1015938%" y2="-12.2718322%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="50.1171192%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="id_0004--totalplacement" transform="translate(-132.000000, 0.000000)">
+            <g id="snack-id-001-type-views" transform="translate(0.000000, -0.003718)">
+                <g id="themarker" transform="translate(132.958355, 0.000000)">
+                    <path d="M385.324049,-3.55271368e-15 C401.087872,24.8436872 410.203857,56.5407436 410.203857,95.1659299 C410.203857,168.059336 355.816453,271.338599 247.041645,405.003718 C138.266837,271.338599 83.879433,168.059336 83.879433,95.1659299 C83.879433,56.5407436 92.9954189,24.8436872 108.759241,-3.55271368e-15 Z" id="Combined-Shape" fill="url(#linearGradient-1)" opacity="0.108658564" style="mix-blend-mode: overlay;"></path>
+                    <path d="M494.083588,0.00176176526 C462.189485,106.814563 379.842171,241.815215 247.041645,405.003718 C114.241119,241.815215 31.893805,106.814563 -0.000297696957,0.00176176526 Z" id="Combined-Shape" fill="url(#linearGradient-2)" opacity="0.0959254674" style="mix-blend-mode: overlay;"></path>
+                    <path d="M245.77118,94.0037177 C305.020298,94.0037177 353.051197,129.392035 353.051197,201.283735 C353.051197,249.211534 317.291192,317.118195 245.77118,405.003718 C174.251169,317.118195 138.491163,249.211534 138.491163,201.283735 C138.491163,129.392035 186.522063,94.0037177 245.77118,94.0037177 Z M248.950004,160.49666 L242.592357,160.49666 C239.081744,160.49666 236.23471,163.343693 236.23471,166.854307 L236.23471,195.463718 L207.625298,195.463718 C204.114685,195.463718 201.267651,198.310752 201.267651,201.821365 L201.267651,208.179012 C201.267651,211.689625 204.114685,214.536659 207.625298,214.536659 L236.23471,214.536659 L236.23471,243.146071 C236.23471,246.656684 239.081744,249.503718 242.592357,249.503718 L248.950004,249.503718 C252.460617,249.503718 255.307651,246.656684 255.307651,243.146071 L255.307651,214.536659 L283.917062,214.536659 C287.427676,214.536659 290.274709,211.689625 290.274709,208.179012 L290.274709,201.821365 C290.274709,198.310752 287.427676,195.463718 283.917062,195.463718 L255.307651,195.463718 L255.307651,166.854307 C255.307651,163.343693 252.460617,160.49666 248.950004,160.49666 Z" id="Combined-Shape" fill="url(#linearGradient-3)" opacity="0.148800805" style="mix-blend-mode: overlay;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

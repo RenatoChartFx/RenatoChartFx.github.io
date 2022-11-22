@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="760px" height="418px" viewBox="0 0 760 418" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 135</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="73.3940142%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.152220826" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.578892%" y1="30.1738941%" x2="26.8798934%" y2="75.0788858%" id="linearGradient-8">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="94.578892%" y1="34.6991732%" x2="26.8798934%" y2="69.3546675%" id="linearGradient-9">
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="95.9937696%" y1="100%" x2="7.07310721%" y2="100%" id="linearGradient-10">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="main-dashboard" transform="translate(-554.000000, -2561.000000)">
+            <g id="engagements-milestone-bg" transform="translate(554.000000, 2561.898777)">
+                <g id="Group-98" transform="translate(0.000000, 1.000000)">
+                    <g id="Group-32">
+                        <g id="Group-29" fill="url(#linearGradient-1)" opacity="0.553654262">
+                            <path d="M0,153.762 L329.070443,286.00019 L322.927152,286.00019 L0,169.803 L0,153.762 Z M0,120.912 L338.347689,286.00019 L332.204398,286.00019 L0,144.043 L0,120.912 Z M0,70.155 L347.624935,286.00019 L341.481645,286.00019 L0,106.387 L0,70.155 Z M21.8349068,0.000189983543 L356.902181,286.00019 L350.758891,286.00019 L0,46.122 L0.00080355824,8.47710745 C0.00080355824,4.39830605 2.79086511,0.971158446 6.56658784,6.50172939e-05 L21.8349068,0.000189983543 Z M156.656978,0.000189983543 L366.179427,286.00019 L360.036137,286.00019 L67.3792853,0.000189983543 L156.656978,0.000189983543 Z M291.479049,0.000189983542 L375.456673,286.00019 L369.313383,286.00019 L202.201357,0.000189983542 L291.479049,0.000189983542 Z M426.301121,0.000189983542 L384.73392,286.00019 L378.590629,286.00019 L337.023428,0.000189983542 L426.301121,0.000189983542 Z M561.123192,0.000189983542 L394.011166,286.00019 L387.867875,286.00019 L471.845499,0.000189983542 L561.123192,0.000189983542 Z M695.945263,0.000189983543 L403.288412,286.00019 L397.145121,286.00019 L606.667571,0.000189983543 L695.945263,0.000189983543 Z M760.000804,8.47710745 L760,48.396 L412.565658,286.00019 L406.422368,286.00019 L741.489642,0.000189983543 L753.434766,6.31716901e-14 C757.210617,0.971005466 760.000804,4.39821502 760.000804,8.47710745 Z M760,72.219 L760,108.136 L421.842904,286.00019 L415.699614,286.00019 L760,72.219 Z M760,122.534 L760,145.464 L431.12015,286.00019 L424.97686,286.00019 L760,122.534 Z M760,155.098 L760,171 L440.397396,286.00019 L434.254106,286.00019 L760,155.098 Z" id="Combined-Shape" style="mix-blend-mode: overlay;"></path>
+                        </g>
+                        <g id="Group-105" transform="translate(44.000804, 33.130708)"></g>
+                    </g>
+                    <polygon id="Path-16" fill="url(#linearGradient-2)" opacity="0.392719087" style="mix-blend-mode: overlay;" points="445.246156 5.09451092 200.500402 247.51127 348.891296 247.51127 275.545848 400.094511 549.500402 175.902418 380.159385 175.902418"></polygon>
+                </g>
+                <g id="Group-128" opacity="0.373673212" style="mix-blend-mode: overlay;" transform="translate(53.279516, 156.127660) rotate(-244.000000) translate(-53.279516, -156.127660) translate(46.404365, 119.627660)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="6.87515195" cy="6.87515195" r="6.87515195"></circle>
+                    <path d="M6.87515195,73 C11.4585866,31.448129 13.7503039,9.40651299 13.7503039,6.87515195 C13.7503039,3.07811037 10.6721935,-1.13686838e-13 6.87515195,-1.13686838e-13 C3.07811037,-1.13686838e-13 4.54747351e-13,3.07811037 4.54747351e-13,6.87515195 C4.54747351e-13,9.40651299 2.29171732,31.448129 6.87515195,73 Z" id="Oval" fill="url(#linearGradient-3)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.262728737" transform="translate(612.505586, 214.233866) scale(-1, 1) rotate(-270.000000) translate(-612.505586, -214.233866) translate(605.630434, 177.733866)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="6.87515195" cy="6.87515195" r="6.87515195"></circle>
+                    <path d="M6.87515195,73 C11.4585866,31.448129 13.7503039,9.40651299 13.7503039,6.87515195 C13.7503039,3.07811037 10.6721935,-1.13686838e-13 6.87515195,-1.13686838e-13 C3.07811037,-1.13686838e-13 4.54747351e-13,3.07811037 4.54747351e-13,6.87515195 C4.54747351e-13,9.40651299 2.29171732,31.448129 6.87515195,73 Z" id="Oval" fill="url(#linearGradient-3)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.713724772" style="mix-blend-mode: overlay;" transform="translate(156.279516, 87.396507) rotate(-224.000000) translate(-156.279516, -87.396507) translate(149.404365, 50.896507)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="6.87515195" cy="6.87515195" r="6.87515195"></circle>
+                    <path d="M6.87515195,73 C11.4585866,31.448129 13.7503039,9.40651299 13.7503039,6.87515195 C13.7503039,3.07811037 10.6721935,-1.13686838e-13 6.87515195,-1.13686838e-13 C3.07811037,-1.13686838e-13 4.54747351e-13,3.07811037 4.54747351e-13,6.87515195 C4.54747351e-13,9.40651299 2.29171732,31.448129 6.87515195,73 Z" id="Oval" fill="url(#linearGradient-3)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.50542341" style="mix-blend-mode: overlay;" transform="translate(491.102301, 364.108334) rotate(-22.000000) translate(-491.102301, -364.108334) translate(486.675834, 340.608334)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="4.42646769" cy="4.42646769" r="4.42646769"></circle>
+                    <path d="M4.42646769,47 C7.37744615,20.2474255 8.85293538,6.05624809 8.85293538,4.42646769 C8.85293538,1.98179709 6.87113829,0 4.42646769,0 C1.98179709,0 6.82121026e-13,1.98179709 6.82121026e-13,4.42646769 C6.82121026e-13,6.05624809 1.47548923,20.2474255 4.42646769,47 Z" id="Oval" fill="url(#linearGradient-4)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.365099226" style="mix-blend-mode: overlay;" transform="translate(284.563387, 289.026687) scale(-1, 1) rotate(-30.000000) translate(-284.563387, -289.026687) translate(280.640054, 268.197814)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="3.92333337" cy="3.92333337" r="3.92333337"></circle>
+                    <path d="M3.92333337,41.6577464 C6.53888895,17.9460025 7.84666674,5.36786483 7.84666674,3.92333337 C7.84666674,1.75653618 6.09013056,0 3.92333337,0 C1.75653618,0 3.41060513e-13,1.75653618 3.41060513e-13,3.92333337 C3.41060513e-13,5.36786483 1.30777779,17.9460025 3.92333337,41.6577464 Z" id="Oval" fill="url(#linearGradient-5)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.3668489" transform="translate(703.713471, 83.428291) rotate(-129.000000) translate(-703.713471, -83.428291) translate(697.681268, 35.428291)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="6.03220291" cy="6.03220291" r="6.03220291"></circle>
+                    <path d="M2.02152761,96 C8.71677975,38.2424644 12.0644058,8.25319869 12.0644058,6.03220291 C12.0644058,2.70070923 9.36369658,2.27373675e-13 6.03220291,2.27373675e-13 C2.70070923,2.27373675e-13 0,2.70070923 0,6.03220291 C0,8.25319869 0.673842538,38.2424644 2.02152761,96 Z" id="Oval" fill="url(#linearGradient-6)" opacity="0.278164818"></path>
+                </g>
+                <g id="Group-128" opacity="0.178571429" transform="translate(596.393608, 51.633717) rotate(-138.000000) translate(-596.393608, -51.633717) translate(586.975592, -9.366283)">
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.492075602" cx="9.41801636" cy="9.41801636" r="9.41801636"></circle>
+                    <path d="M7.29624315,122 C14.5778805,49.7741104 18.2186991,12.0410047 18.2186991,8.80068276 C18.2186991,3.94019989 14.2784992,2.27373675e-13 9.41801636,2.27373675e-13 C4.55753349,2.27373675e-13 0.6173336,3.94019989 0.6173336,8.80068276 C0.6173336,12.0410047 2.84363678,49.7741104 7.29624315,122 Z" id="Oval" fill="url(#linearGradient-7)" opacity="0.278164818"></path>
+                </g>
+                <path d="M2.27373675e-13,368.250424 L225.014755,255.922176 L120.858665,415.282467 L13,415.282467 C5.82029825,415.282467 2.42418719e-13,409.462169 2.27373675e-13,402.282467 L2.27373675e-13,368.250424 L2.27373675e-13,368.250424 Z" id="Path-15" fill="url(#linearGradient-8)" opacity="0.246352423" style="mix-blend-mode: overlay;"></path>
+                <polygon id="Path-15" fill="url(#linearGradient-9)" opacity="0.351858956" style="mix-blend-mode: overlay;" transform="translate(641.788227, 352.951573) scale(-1, 1) translate(-641.788227, -352.951573) " points="634.80708 416.903146 744.576454 289 539 416.903146"></polygon>
+                <polygon id="Path-15" fill="url(#linearGradient-10)" opacity="0.155251639" style="mix-blend-mode: overlay;" transform="translate(38.832974, 208.027330) scale(-1, -1) rotate(-180.000000) translate(-38.832974, -208.027330) " points="5.33772566 202.02733 72.3282228 210.468984 15.0033621 214.02733"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

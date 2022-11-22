@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="761px" height="285px" viewBox="0 0 761 285" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>scenario</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.4552089%" id="linearGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.106301901" offset="0%"></stop>
+            <stop stop-color="#EEEEEE" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="86.4552089%" id="linearGradient-3">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.435679118">
+        <g id="main-dashboard" transform="translate(-554.000000, -2116.000000)">
+            <g id="CARD-FEED" transform="translate(554.000000, 2116.222727)">
+                <g id="scenario" style="mix-blend-mode: overlay;" transform="translate(0.000000, -0.000000)">
+                    <g id="Group-107" transform="translate(321.338529, 1.303205)" fill="#FFFFFF">
+                        <path d="M207.705611,16.4117642 C235.831228,31.3287821 258.324952,55.453965 271.168788,84.7693191 L173.919332,279.268822 L173.919332,279.268822 L256.523091,114.054795 Z M141.5,0 C165.319099,0 187.763609,5.88531916 207.458687,16.2811161 L123.024,185.149795 L89.5,118.102795 L32.6147507,231.87308 C12.2473302,207.360731 0,175.860624 0,141.5 C0,63.3517079 63.3517079,0 141.5,0 Z" id="Combined-Shape" fill-opacity="0.475503988" opacity="0.190522693"></path>
+                        <path d="M141.5,35.375 C159.631183,35.375 176.700393,39.9218473 191.629596,47.9375078 L123.024,185.149795 L89.5,118.102795 L50.4914413,196.120047 C40.8944155,180.163697 35.375,161.476413 35.375,141.5 C35.375,82.8887809 82.8887809,35.375 141.5,35.375 Z" id="Path" fill-opacity="0.475503988" opacity="0.190522693"></path>
+                        <circle id="Oval" opacity="0.300663539" cx="141.5" cy="141.5" r="56.8868243"></circle>
+                    </g>
+                    <g id="Group-129">
+                        <polygon id="Shape" fill-opacity="0.4" fill="#FFFFFF" opacity="0.444167364" points="528.88562 17.406 577.86162 115.358 493.338529 284.406 328.338529 284.406 410.838529 119.406 444.362529 186.453"></polygon>
+                        <path d="M462.838529,85.9163806 C473.054013,85.9163806 482.640592,88.6090434 490.927234,93.3233375 L444.362529,186.453 L410.908025,119.54514 C419.799376,99.7230189 439.706596,85.9163806 462.838529,85.9163806 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <path d="M695.135529,0 L760.338529,130.406 L760.338529,284.406 L493.338529,284.406 L635.541529,0 L695.135529,0 Z" id="Combined-Shape" fill="#FFFFFF" opacity="0.519220261"></path>
+                        <polygon id="Triangle" fill="url(#linearGradient-1)" opacity="0.217795236" points="665.35203 0.870047852 701.612978 57.7634159 678.334345 57.7634159 665.35203 132.370048 651.773901 57.7634159 629.091082 57.7634159"></polygon>
+                        <polygon id="Path" fill-opacity="0.4" fill="#FFFFFF" opacity="0.444167364" points="410.838529 119.406 444.362529 186.453 395.38562 284.406 328.338529 284.406"></polygon>
+                        <rect id="Rectangle" fill="url(#linearGradient-2)" x="0" y="236.000642" width="759.787175" height="48.4534653"></rect>
+                        <polygon id="Path" fill-opacity="0.6" fill="#FFFFFF" points="528.88562 17.406 577.86162 115.358 493.338529 284.406 395.38562 284.406"></polygon>
+                        <polygon id="Triangle" fill="url(#linearGradient-3)" opacity="0.207609631" points="529.228957 40.8700479 544.119384 64.2331039 534.560097 64.2331039 529.228957 94.8700479 523.653147 64.2331039 514.338529 64.2331039"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

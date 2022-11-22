@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="676px" height="353px" viewBox="0 0 676 353" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>theeye</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.326219831">
+        <g id="visual-ref" transform="translate(-72.000000, -59.000000)">
+            <g id="CARD-FEED" transform="translate(30.000000, 28.000000)">
+                <g id="theeye" transform="translate(42.050000, 31.919482)">
+                    <path d="M337.95,351.9 C402.733001,351.9 515.383001,293.25 675.9,175.95 C515.383001,58.65 402.733001,0 337.95,0 C273.166999,0 160.516999,58.65 0,175.95 C160.516999,293.25 273.166999,351.9 337.95,351.9 Z" id="Oval" fill-opacity="0.276775227" fill="#000000" opacity="0.346855527" style="mix-blend-mode: overlay;"></path>
+                    <circle id="Oval" fill="#000000" opacity="0.173320952" style="mix-blend-mode: overlay;" cx="337.95" cy="175.95" r="175.95"></circle>
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.173320952" style="mix-blend-mode: overlay;" cx="337.95" cy="175.95" r="93.15"></circle>
+                    <circle id="Oval" fill="#D8D8D8" opacity="0.173320952" style="mix-blend-mode: overlay;" cx="337.95" cy="175.95" r="142.65"></circle>
+                    <circle id="Oval" fill="#000000" opacity="0.173320952" style="mix-blend-mode: overlay;" cx="337.95" cy="175.95" r="64.35"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="744px" height="251px" viewBox="0 0 744 251" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <defs>
+        <linearGradient x1="81.2913433%" y1="55.8650907%" x2="0%" y2="36.3173597%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.136442171" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="id_0003--totalreviewsx" transform="translate(0.000000, -164.000000)" fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(0.000000, 39.500000)">
+                <path d="M193.797341,147.266024 C202.016212,153.059014 210.756234,160.393569 220.369006,168.587886 L227.167757,174.389854 C291.232934,229.009096 394.181817,263.799886 627.521406,198.240628 L636.012309,195.805902 C688.622753,184.136628 729.951983,192.269859 760,220.205596 L760,376.5 L0,375.423077 L0,238.330119 C0,175.46348 54.2287612,124.5 121.123336,124.5 C147.330819,124.5 172.831354,132.488355 193.797341,147.266024 Z" id="Rectangle" style="mix-blend-mode: overlay;"></path>
+            </g>
+        </g>
+    </g>
+</svg>

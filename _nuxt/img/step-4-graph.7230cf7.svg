@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="588px" height="135px" viewBox="0 0 588 135" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 12</title>
+    <defs>
+        <linearGradient x1="50%" y1="-50.5446666%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100.998646%" y1="49.2035351%" x2="0%" y2="50.9978289%" id="linearGradient-2">
+            <stop stop-color="#979797" offset="0%"></stop>
+            <stop stop-color="#C8C8C8" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600795201">
+        <g id="Artboard" transform="translate(-2395.000000, -594.000000)">
+            <g id="Group-12" transform="translate(2397.893433, 594.006967)">
+                <path d="M585.052209,5.18252828 L576.052086,63.5567601 C575.71453,65.7536674 573.823933,67.3752803 571.601244,67.3743589 C571.012299,67.3743589 570.431369,67.259748 569.87294,67.0267292 L552.63208,59.8406939 L545.479795,70.5691212 C544.93135,71.5078058 544.017275,72 543.032887,72 C541.415677,72 540.107847,70.6921697 540.107847,69.0749602 L540.107847,55.5494636 C540.107847,54.5489032 540.441414,53.5764681 541.055954,52.7875511 L571.608276,13.4992039 L530.306151,50.6668972 L515.876424,44.6480653 C514.29409,43.9871188 513.221669,42.4964735 513.116199,40.654261 C513.010728,38.8120484 513.885428,37.3185906 515.374667,36.4677977 L578.375524,0.593872089 C579.878826,-0.265217727 581.733695,-0.186185401 583.156839,0.791593529 C584.579984,1.76937246 585.3194,3.47531755 585.052209,5.18252828 Z" id="Path" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>
+                <path d="M2.27373675e-13,132.146693 C2.27373675e-13,129.412604 134.326416,20.7036683 298.25,95.827978 C407.532389,145.910851 485.879272,135.581316 533.290649,64.8393731" id="Path-3" stroke="url(#linearGradient-2)" stroke-width="4" opacity="0.187997001" stroke-linecap="round" stroke-dasharray="8,11"></path>
+            </g>
+        </g>
+    </g>
+</svg>

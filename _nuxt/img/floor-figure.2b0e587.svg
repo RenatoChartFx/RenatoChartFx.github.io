@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2607px" height="452px" viewBox="0 0 2607 452" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Rectangle</title>
+    <defs>
+        <radialGradient cx="50%" cy="13.1427305%" fx="50%" fy="13.1427305%" r="86.8572695%" gradientTransform="translate(0.500000,0.131427),scale(0.145384,1.000000),rotate(90.000000),scale(1.000000,3.320920),translate(-0.500000,-0.131427)" id="radialGradient-1">
+            <stop stop-color="#000000" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.264904204">
+        <g id="Artboard" transform="translate(-38.000000, -797.000000)" fill="url(#radialGradient-1)">
+            <rect id="Rectangle" x="-213" y="797" width="3109" height="452"></rect>
+        </g>
+    </g>
+</svg>
